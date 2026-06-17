@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80" fill="none">
+  <path d="M10 20h180v50H10z" fill="#0A0A0A" stroke="#0A0A0A" stroke-width="2"/>
+  <rect x="15" y="25" width="170" height="40" rx="4" fill="#1A1A1A" stroke="#0A0A0A" stroke-width="2"/>
+  <circle cx="100" cy="45" r="16" fill="#141414" stroke="#333" stroke-width="1.5"/>
+  <circle cx="100" cy="45" r="6" fill="#F4A261"/>
+  <circle cx="100" cy="45" r="2" fill="#0A0A0A"/>
+  <text x="100" y="78" text-anchor="middle" font-family="'Space Grotesk', sans-serif" font-weight="700" font-size="18" fill="#0A0A0A" letter-spacing="0.1em">JOE90z</text>
+  <line x1="20" y1="32" x2="45" y2="32" stroke="#333" stroke-width="1"/>
+  <line x1="155" y1="32" x2="180" y2="32" stroke="#333" stroke-width="1"/>
+  <line x1="20" y1="58" x2="45" y2="58" stroke="#333" stroke-width="1"/>
+  <line x1="155" y1="58" x2="180" y2="58" stroke="#333" stroke-width="1"/>
+</svg>
